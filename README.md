@@ -1,0 +1,1 @@
+A simple project using only HTML made for Odin Project.
