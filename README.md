@@ -1,0 +1,1 @@
+"odin-recipes" is the first project of The Odin Project in which I will practice my HTML knowledge.
